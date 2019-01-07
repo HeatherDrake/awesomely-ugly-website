@@ -1,0 +1,51 @@
+.cityLife{
+    font-size: 60px;
+}
+
+
+
+.newyork1{
+    height: 230px;
+    width: 70%;
+    margin-left: 20%;
+    background-color:whitesmoke;
+
+}
+
+.reasons{
+    display: inline-block;
+    background-color:darkred;
+
+}
+
+.rat{
+    display: inline-block;
+    background-color: darkred;
+    padding-top: 65px;
+
+
+}
+
+.nypic2{
+    height: 200px;
+    width: 35%;
+    display: inline-block;
+    padding: 5%;
+    background-color: whitesmoke;
+
+}
+
+.ilny{
+    display: inline-block;
+    color: black;
+    font-size: 35px;
+    height: 200px;
+    width: 20%;
+    background-color: whitesmoke;
+
+}
+
+.last{
+    display: inline-block;
+    background-color: deeppink;
+}
